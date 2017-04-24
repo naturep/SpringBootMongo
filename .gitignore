@@ -7,3 +7,5 @@
 
 #Gradle temporary files
 target/
+build/
+.gradle/
